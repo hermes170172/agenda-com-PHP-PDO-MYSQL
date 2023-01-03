@@ -25,4 +25,4 @@ create table tb_tarefas ( id int not null primary key auto_increment, id_status 
 
 Por fim, abra seu navegador e digite "localhost/agenda_public".
 
-Você pode acessar a aplicação original em "https://hrribeiro.com/app_lista_tarefas_public/"
+Você pode acessar a aplicação original em "https://hrribeiro.com/agenda/"
